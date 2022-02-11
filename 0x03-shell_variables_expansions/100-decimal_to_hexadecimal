@@ -1,2 +1,3 @@
 #!/bin/bash
-printf "%zu\n" $DECIMAL
+printf "%d\n" $DECIMAL=16
+
