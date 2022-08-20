@@ -1,7 +1,9 @@
 # 0x09. Web infrastructure design
+
 ## Details
       By Sylvain Kalache, co-founder at Holberton School          Weight: 1          Project to be done in teams of 3 people                Ongoing project - started Jul 19, 2022 , must end by Jul 23, 2022           - you're done with 0% of tasks.      Manual QA review must be done          (request it when you are done with the project)      ### Concepts
 For this project, we expect you to look at these concepts:
+
 * [DNS](https://intranet.hbtn.io/concepts/12) 
 
 * [Monitoring](https://intranet.hbtn.io/concepts/13) 
@@ -15,6 +17,7 @@ For this project, we expect you to look at these concepts:
 * [Server](https://intranet.hbtn.io/concepts/67) 
 
 ## Resources
+
 Read or watch :
 * Network basics concept page
 * Server concept page
@@ -39,9 +42,11 @@ Read or watch :
 * [What is a firewall](https://intranet.hbtn.io/rltoken/ZFTutaKN4wWzmL4fWhQmeg) 
 
 ## Learning Objectives
+
 At the end of this project, you are expected to be able to  [explain to anyone](https://intranet.hbtn.io/rltoken/Dvn7v5U404zIccrJ_jDevg) 
  ,  without the help of Google :
 ### General
+
 * You must be able to draw a diagram covering the web stack you built with the sysadmin/devops track projects
 * You must be able to explain what each component is doing
 * You must be able to explain system redundancy
