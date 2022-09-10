@@ -7,7 +7,6 @@ from sys import argv
 
 
 def todo(userid):
-    """doc stringed"""
     name = requests.get(
         'https://jsonplaceholder.typicode.com/users/{}'.format(
             userid)).json().get('name')
